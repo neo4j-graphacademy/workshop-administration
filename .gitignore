@@ -1,0 +1,10 @@
+# Docker
+.env
+
+# Neo4j data/logs (bind mounts)
+data/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
